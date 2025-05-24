@@ -4,7 +4,9 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+ubuntu：
 ubuntu：v24.04
 ubuntu：v24.10
 ubuntu：v25.04
+debian
 debian:v12.11
